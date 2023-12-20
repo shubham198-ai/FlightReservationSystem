@@ -1,0 +1,8 @@
+This project is about FlightReservationSystem. 
+user can register themselve.
+ user can login with their emailid and password.
+After login user can search flight and book flight.
+this project is for demo basis.
+technology-java8,jsp,html,css,springboot,Microservice,restApi,Hibernate
+IDE-STS
+Testing-Postman
